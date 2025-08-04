@@ -1,0 +1,18 @@
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# User data and logs (Do not share these)
+download_history.json
+error.log
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+
+# Environment files
+.env
+venv/
+.venv/
